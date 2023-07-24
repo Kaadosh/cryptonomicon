@@ -1,3 +1,4 @@
+
 <template>
   <div class="container">
     <section>
@@ -203,5 +204,4 @@ export default {
 };
 </script>
 
-<style src="./app.css">
-</style>
+
